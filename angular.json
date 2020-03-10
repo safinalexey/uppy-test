@@ -24,9 +24,11 @@
               "src/assets"
             ],
             "styles": [
-              "src/styles.css"
+              "src/styles.css",
+              "./node_modules/uppy/dist/uppy.css"
             ],
-            "scripts": []
+            "scripts": [
+            ]
           },
           "configurations": {
             "production": {
@@ -120,6 +122,7 @@
           }
         }
       }
-    }},
+    }
+  },
   "defaultProject": "uppy-test"
 }

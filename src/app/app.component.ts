@@ -1,5 +1,7 @@
 import { Component } from '@angular/core';
-
+// import * as Uppy from '@uppy/core';
+import * as Uppy from 'uppy';
+import {Dashboard} from 'uppy';
 @Component({
   selector: 'app-root',
   templateUrl: './app.component.html',

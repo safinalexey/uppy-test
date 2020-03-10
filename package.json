@@ -19,8 +19,14 @@
     "@angular/platform-browser": "~8.2.14",
     "@angular/platform-browser-dynamic": "~8.2.14",
     "@angular/router": "~8.2.14",
+    "@uppy/core": "^1.8.2",
+    "@uppy/dashboard": "^1.6.2",
+    "@uppy/store-redux": "^1.2.1",
+    "@uppy/tus": "^1.5.5",
+    "redux": "^4.0.5",
     "rxjs": "~6.4.0",
     "tslib": "^1.10.0",
+    "uppy": "^1.9.3",
     "zone.js": "~0.9.1"
   },
   "devDependencies": {
